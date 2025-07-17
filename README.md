@@ -13,7 +13,6 @@ PredictNTrack is an intelligent machine learning-powered web application built u
   - Re-routing through less-affected highways
 - Download shipment reports as PDF/CSV
 - Trained on synthetic + realistic shipment data
-- Ready for deployment on Render
 
 ---
 
